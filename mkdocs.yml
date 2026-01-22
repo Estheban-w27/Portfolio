@@ -5,6 +5,15 @@ theme:
 
 nav:
   - Accueil: index.md
+  - Compétences:
+      - Réseaux: reseaux.md
+      - Développement: dev.md
+      - Cybersécurité: cyber.md
+  - Projets:
+      - Portfolio: portfolio.md
+      - Stage: stage.md
+  - À propos: apropos.md
+
 
 plugins:
   - search  # Plugin de recherche intégré
