@@ -2,7 +2,7 @@
   <img src="../image/profil.webp" width="120px" />
 </p>
 
-<h1 align="center">Bienvenue sur mon Portefeuille de Compétences</h1>
+<h1 align="center">Bienvenue sur mon Portfolio</h1>
 <h3 align="center">Willot Desse Estheban — BTS SIO SLAM</h3>
 
 ---
