@@ -2,9 +2,17 @@ site_name: "Portefeuille de Willot Desse Estheban"
 
 theme:
   name: material
+  palette:
+    scheme: slate  
+    primary: blue
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: images/profil.webp  
 
 nav:
-  - Accueil: index.md
+  - Accueil: 01_Profil/index.md
   - Mon Profil:
       - Présentation: 01_Profil/index.md
   - Spécialité SLAM:
@@ -27,3 +35,4 @@ markdown_extensions:
       permalink: true
   - tables
   - admonition
+  - attr_list
