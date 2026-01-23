@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <!-- saved from url=(0061)https://github.com/Estheban-w27/Portfolio/edit/main/README.md -->
 <html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark" data-a11y-animated-images="system" data-a11y-link-underlines="true" data-js-focus-visible="" data-turbo-loaded=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style>.ͼ1.cm-focused {outline: 1px dotted #212121;}
@@ -1344,3 +1345,6 @@ data-styled.g1[id="Box-sc-62in7e-0"]{content:"jmjlbk,cybVuK,ktuLpF,jqtuOB,jyTWxL
 <div id="polite" aria-live="polite" aria-atomic="true"></div>
 <div id="assertive" aria-live="assertive" aria-atomic="true"></div>
 </template></live-region></body></html>
+=======
+
+>>>>>>> 9e59ef7f18df0fe2ce70f46d513c562929933f2b
