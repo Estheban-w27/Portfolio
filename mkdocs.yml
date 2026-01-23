@@ -1,20 +1,29 @@
-site_name: Mon Portfolio
+site_name: "Portefeuille de Willot Desse Estheban"
 
 theme:
-  name: readthedocs
+  name: material
 
 nav:
   - Accueil: index.md
-  - Compétences:
-      - Réseaux: reseaux.md
-      - Développement: dev.md
-      - Cybersécurité: cyber.md
-  - Projets:
-      - Portfolio: portfolio.md
-      - Stage: stage.md
-  - À propos: apropos.md
-
+  - Mon Profil:
+      - Présentation: 01_Profil/index.md
+  - Spécialité SLAM:
+      - Présentation: 02_SLAM/index.md
+  - CyberSécurité:
+      - Présentation: 03_CyberSécurité/index.md
+  - Veille Technologique:
+      - Présentation: 04_Veille/index.md
+  - Synthèse:
+      - Tableau de synthèse: 05_Synthèse/Tableau-de-synthèse-des-réalisations-professionnelles.md
+  - Contact:
+      - Me contacter: 06_contact/index.md
 
 plugins:
-  - search  # Plugin de recherche intégré
-  - mkdocs-nav-weight  # Plugin pour une meilleure gestion des pages
+  - search
+  - mkdocs-nav-weight
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
