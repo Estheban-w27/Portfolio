@@ -1,5 +1,3 @@
-# 🌐 Bienvenue sur mon Portefeuille de Compétences
-
 Ce site présente mon parcours, mes compétences et mes réalisations dans le cadre du **BTS SIO option SLAM**.
 
 ---
