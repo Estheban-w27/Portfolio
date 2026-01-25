@@ -12,19 +12,15 @@ theme:
   logo: images/profil.webp  
 
 nav:
-  - Accueil: 01_Profil/index.md
-  - Mon Profil:
-      - Présentation: 01_Profil/index.md
-  - Spécialité SLAM:
-      - Présentation: 02_SLAM/index.md
-  - CyberSécurité:
-      - Présentation: 03_CyberSécurité/index.md
-  - Veille Technologique:
-      - Présentation: 04_Veille/index.md
-  - Synthèse:
-      - Tableau de synthèse: 05_Synthèse/Tableau-de-synthèse-des-réalisations-professionnelles.md
-  - Contact:
-      - Me contacter: 06_contact/index.md
+  - Accueil: index.md
+  - Profil: 
+      - Profil : 01_Profil/index.md
+      - Mise en place du portfolio: 01_Profil/mise-en-place-doc.md
+  - SLAM: 02_SLAM/index.md
+  - Cybersécurité: 03_Cybersecurite/index.md
+  - Veille technologique: 04_Veille/index.md
+  - Synthèse: 05_Synthese/index.md
+  - Contact: 06_Contact/index.md
 
 plugins:
   - search
@@ -36,4 +32,3 @@ markdown_extensions:
   - tables
   - admonition
   - attr_list
-  - 
