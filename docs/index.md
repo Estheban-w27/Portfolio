@@ -1,4 +1,5 @@
-Ce site présente mon parcours, mes compétences et mes réalisations dans le cadre du **BTS SIO option SLAM**.
+<h1 align="center">Bienvenue sur mon Portfolio</h1>
+<h3 align="center">Willot Desse Estheban — BTS SIO SLAM</h3>
 
 ---
 
