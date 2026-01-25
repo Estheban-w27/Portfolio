@@ -46,10 +46,3 @@
 
 </div>
 
-## 📊 Compétences clés
-
-- Développement web (HTML, CSS, JavaScript)
-- Bases de données (SQL, conception)
-- Langages de programmation (Python, PHP, Java...)
-- Gestion de projet Agile
-- Sécurité informatique
