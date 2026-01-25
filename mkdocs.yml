@@ -1,51 +1,35 @@
-site_name: Portfolio BTS SIO - SLAM
-site_url: https://estheban-w27.github.io/Portfolio/
+site_name: "Portefeuille de Willot Desse Estheban"
 
 theme:
-  name: material
-  language: fr
-  palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-7
-        name: Mode sombre
-    - scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-4
-        name: Mode clair
+  name: readthedocs
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
-    - navigation.expand
-    - navigation.top
-    - toc.follow
-    - search.suggest
-    - search.highlight
+  palette:
+    scheme: slate  
+    primary: blue
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: images/profil.webp  
 
 nav:
   - Accueil: index.md
-  - Profil:
-    - Présentation: 01_Profil/index.md
-    - Mise en place: 01_Profil/mise-en-place-doc.md
+  - Profil: 01_Profil/index.md
   - SLAM: 02_SLAM/index.md
-  - Cybersécurité: 03_Cybersecurite/index.md
-  - Veille: 04_Veille/index.md
-  - Synthèse: 05_Synthese/Tableau_Synthese.md
+  - Cybersecurite: 03_Cybersecurite/index.md
+  - Veille technologique: 04_Veille/index.md
+  - Mise en place du portfolio: 01_Profil/mise-en-place-doc.md
+  - Synthese: 05_Synthese/Tableau_Synthese.md
   - Contact: 06_Contact/index.md
 
+plugins:
+  - search
+  - mkdocs-nav-weight
+
 markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
   - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
   - attr_list
-  - md_in_html
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
