@@ -2,6 +2,8 @@ site_name: "Portefeuille de Willot Desse Estheban"
 
 theme:
   name: material
+  features:
+    - navigation.tabs
   palette:
     scheme: slate  
     primary: blue
@@ -13,7 +15,7 @@ theme:
 
 nav:
   - Accueil: index.md
-  - Profil: 
+  - Profil:
       - Profil : 01_Profil/index.md
       - Mise en place du portfolio: 01_Profil/mise-en-place-doc.md
   - SLAM: 02_SLAM/index.md
