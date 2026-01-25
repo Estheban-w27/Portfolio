@@ -16,10 +16,10 @@ theme:
 nav:
   - Accueil: index.md
   - Profil: 01_Profil/index.md
-  - Mise en place du portfolio: 01_Profil/mise-en-place-doc.md
   - SLAM: 02_SLAM/index.md
   - Cybersecurite: 03_Cybersecurite/index.md
   - Veille technologique: 04_Veille/index.md
+  - Mise en place du portfolio: 01_Profil/mise-en-place-doc.md
   - Synthese: 05_Synthese/Tableau_Synthese.md
   - Contact: 06_Contact/index.md
 
