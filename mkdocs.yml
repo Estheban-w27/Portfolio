@@ -13,13 +13,13 @@ theme:
 
 nav:
   - Accueil: index.md
-  - Profil: 
-      - Profil : 01_Profil/index.md
-      - Mise en place du portfolio: 01_Profil/mise-en-place-doc.md
+  - Mon Profil:
+    - Présentation: 01_Profil/index.md
+    - Mise en place documentaire: 01_Profil/mise-en-place-doc.md
   - SLAM: 02_SLAM/index.md
-  - CyberSécurité: 03_CyberSécurité/index.md
+  - CyberSécurité: 03_CyberSecurite/index.md
   - Veille technologique: 04_Veille/index.md
-  - Synthèse: 05_Synthèse/Tableau-de-synthèse-des-réalisations-professionnelles.md
+  - Synthèse: 05_Synthese/Tableau-de-synthèse-des-réalisations-professionnelles.md
   - Contact: 06_Contact/index.md
 
 plugins:
