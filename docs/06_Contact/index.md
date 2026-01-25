@@ -2,14 +2,14 @@
 
 Vous pouvez me joindre via les informations suivantes :
 
-## Email
+## 📧 Email  
 estheban.willotdesse@gmail.com
 
-## GitHub
-https://github.com/Estheban-w27
+## 🐙 GitHub  
+[github.com/Estheban-w27](https://github.com/Estheban-w27)
 
-## Numéro de tellephone 
-06 ...  
+## 📱 Téléphone  
+06 XX XX XX XX
 
-## Linkedin
-https://...
+## 💼 LinkedIn  
+[linkedin.com/in/ton-profil](https://linkedin.com/in/ton-profil)
