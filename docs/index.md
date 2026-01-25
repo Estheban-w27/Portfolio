@@ -1,5 +1,5 @@
 <h1 align="center">Bienvenue sur mon Portfolio</h1>
-<h3 align="center">Willot Desse Estheban — BTS SIO SLAM</h3>
+<h2 align="center">Willot Desse Estheban — BTS SIO SLAM</h2>
 
 ---
 
