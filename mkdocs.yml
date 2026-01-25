@@ -1,13 +1,14 @@
 site_name: "Portefeuille de Willot Desse Estheban"
 
 theme:
-  name: readthedocs
-  features:
-    - navigation.tabs
+  name: material
   palette:
-    scheme: slate  
-    primary: blue
-    accent: indigo
+    - scheme: default
+      primary: blue
+      accent: indigo
+    - scheme: slate
+      primary: blue
+      accent: indigo
   font:
     text: Roboto
     code: Roboto Mono
