@@ -1,7 +1,7 @@
 site_name: "Portefeuille de Willot Desse Estheban"
 
 theme:
-  name: material
+  name: readthedocs
   features:
     - navigation.tabs
   palette:
