@@ -8,7 +8,8 @@
 - [Profil](01_Profil/index.md)
 - [SLAM](02_SLAM/index.md)
 - [Cybersécurité](03_Cybersecurite/index.md)
-- [Veille technologique](04_Veille/index.md)
-- [Synthèse](05_Synthese/index.md)
-- [Contact](06_Contact/index.md)
+- - [Veille technologique](04_Veille/index.md)
+- [Mise en place du portfolio](05_Profil/mise-en-place-doc.md)
+- [Synthèse](06_Synthese/index.md)
+- [Contact](07_Contact/index.md)
 
