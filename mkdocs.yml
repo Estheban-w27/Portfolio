@@ -2,17 +2,24 @@ site_name: "Portefeuille de Willot Desse Estheban"
 
 theme:
   name: material
+  language: fr
   palette:
     - scheme: default
-      primary: blue
+      primary: black
       accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Mode sombre
     - scheme: slate
-      primary: blue
+      primary: black
       accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Mode clair
   font:
     text: Roboto
     code: Roboto Mono
-  logo: images/profil.webp  
+  logo: images/profil.webp
 
 nav:
   - Accueil: index.md
@@ -21,9 +28,9 @@ nav:
   - Cybersecurite: 03_Cybersecurite/index.md
   - Veille technologique: 04_Veille/index.md
   - Réalisation:
-      - Mise en place du portfolio: 05_Profil/MDPD.md
-  - Synthese: 06_Synthese/Tableau_Synthese.md
-  - Contact: 07_Contact/index.md
+      - Mise en place du portfolio: 01_Profil/mise-en-place-doc.md
+  - Synthese: 05_Synthese/Tableau_Synthese.md
+  - Contact: 06_Contact/index.md
 
 plugins:
   - search
