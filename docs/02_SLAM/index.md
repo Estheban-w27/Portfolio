@@ -8,6 +8,3 @@ La spécialité SLAM (Solutions Logicielles et Applications Métiers) se concent
 - Analyse des besoins et modélisation
 - Travail collaboratif avec Git
 - Tests et maintenance applicative
-
-## Projets réalisés
-*(À compléter au fur et à mesure de l’année)*
