@@ -24,7 +24,10 @@ theme:
 nav:
   - Accueil: index.md
   - Profil: 01_Profil/index.md
-  - SLAM: 02_SLAM/index.md
+  - SLAM:
+      - Introduction: 02_SLAM/index.md
+      - Projets réalisés:
+          - Exemple projet: 02_SLAM/projet1.md
   - Cybersecurite: 03_Cybersecurite/index.md
   - Veille technologique: 04_Veille/index.md
   - Réalisation:
@@ -42,3 +45,4 @@ markdown_extensions:
   - tables
   - admonition
   - attr_list
+

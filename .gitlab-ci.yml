@@ -1,14 +1,11 @@
-image: python:latest  # On utilise une image avec Python, nécessaire pour MkDocs
+image: python:3.11
 
 pages:
-  stage: deploy
   script:
-    - pip install mkdocs
-    - pip install mkdocs-nav-weight
-    - mkdocs build --verbose --site-dir public  # Construit le site dans le dossier "public"
+    - pip install mkdocs mkdocs-material mkdocs-nav-weight
+    - mkdocs build -d public
   artifacts:
     paths:
       - public
   only:
     - main
-    - master
